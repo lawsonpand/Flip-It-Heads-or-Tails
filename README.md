@@ -1,5 +1,3 @@
-# Kenzie Academy JavaScript Assignment
+# o	Heads or Tails – 
 
-Complete your work inside of `code.js`
-
-Follow the instructions provided on my.kenzie.academy for this assignment.
+To flip a coin and see how many times it will come up heads or tails in 20 flips
